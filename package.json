@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pradeepan93.github.io/Digital Clock",
+  "homepage": "https://pradeepan93.github.io/Digital-Clock.git",
 
   "scripts": {
     "dev": "vite",

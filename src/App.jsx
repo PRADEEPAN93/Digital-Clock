@@ -49,4 +49,3 @@ export default App;
 
 
 
-//git remote add origin https://github.com/pradeepan93/Digital Clock
