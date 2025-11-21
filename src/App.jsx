@@ -17,7 +17,7 @@ function App() {
   const formatHour = (hour) =>{
     return hour === 0 ? 12 : hour > 12 ? hour - 12 : hour;
   };
-// Single digit number add 0
+  // Single digit number add 0
   const formatTimeWithLeadingZero = (num) =>{
     return num < 10 ? `0${num}` : num;
   };
@@ -39,7 +39,6 @@ function App() {
         </div>
       <div className="date">{formatDate(currentTime)}</div>
     </div>
-
     </>
   );
 };
